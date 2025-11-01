@@ -1,4 +1,4 @@
-# 🔐 Autenticación y Autorización
+# Autenticación y Autorización
 
 ## ¿Cuál es la diferencia entre autenticación y autorización?
 
